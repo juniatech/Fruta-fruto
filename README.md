@@ -1,4 +1,4 @@
-#🍎 Fruta&Fruto 
+# 🍎 Fruta&Fruto 
 
   É um case de estudo desenvolvido através de um curso sobre Bootstrap 4: criando uma landing page responsiva pela Alura.
   
@@ -14,19 +14,19 @@
 
   🥝 Como padronizar os componentes de seu site ou aplicação web.
   
-#🍉Layout do Projeto: 
+# 🍉Layout do Projeto: 
 
 <h1>
    <img width="665px" r src="https://media.giphy.com/media/q3voFhDTrPmD1GzElo/giphy.gif">
 </h1>
 
-#🍒Layout Responsivo: 
+# 🍒Layout Responsivo: 
 
 <h2>
    <img width="665px" r src="https://media.giphy.com/media/MBNKwHYUhlGRGekyzE/giphy.gif">
 </h2>
 
-#🍓 Tecnologias utilizadas
+# 🍓 Tecnologias utilizadas
 
   🥝 HTML
   
@@ -34,7 +34,7 @@
   
   🥝 JavaScript
   
-#🍊 Autor 
+# 🍊 Autor 
 
 Júnia Regina de Camargo 💙
 
