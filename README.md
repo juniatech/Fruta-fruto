@@ -32,8 +32,6 @@
   
   🥝 CSS
   
-  🥝 JavaScript
-  
 # 🍊 Autor 
 
 Júnia Regina de Camargo 💙
